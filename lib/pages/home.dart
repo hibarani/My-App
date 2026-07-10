@@ -9,7 +9,7 @@ class Home extends StatelessWidget {
       body: Column(
         children: [
           //
-          Text("Home"),
+         // Text("Home"),
         ],
       ),
     );
