@@ -10,7 +10,6 @@ class Home extends StatelessWidget {
         children: [
           //
           Text("Home"),
-          Text("login"),
         ],
       ),
     );
