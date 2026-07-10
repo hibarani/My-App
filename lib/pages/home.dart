@@ -8,8 +8,6 @@ class Home extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          //
-         // Text("Home"),
         ],
       ),
     );
