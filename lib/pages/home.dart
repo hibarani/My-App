@@ -32,7 +32,7 @@ class Home extends StatelessWidget {
                       ),
                       TextButton(
                         onPressed: () async {
-                          await authService.logOut();
+                          //await authService.logOut();
 
                           Navigator.pushReplacement(
                             context,
